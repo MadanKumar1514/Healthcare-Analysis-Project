@@ -1,1 +1,1 @@
-# Healthcare-Analysis-Project
+Healthcare Data Analysis Dashboard focusing on Obsessive-Compulsive Disorder (OCD) patients. The project aimed to uncover trends in symptom severity, comorbid conditions (depression, anxiety), medication effectiveness, and demographic factors affecting OCD.
